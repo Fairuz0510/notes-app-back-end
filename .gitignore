@@ -1,2 +1,4 @@
 node_modules
 notgies-api-webserver.pem
+.env
+.prod.env
